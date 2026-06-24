@@ -1,58 +1,41 @@
-# E-Commerce Sales EDA — Weekend Project
-**ProSensia AI/ML Bootcamp | Weekend Project**
+# Baseline ML Model — Logistic Regression
+**ProSensia AI/ML Bootcamp | Week 2, Day 1**
 
 ## Project Overview
-Comprehensive Exploratory Data Analysis (EDA) on an E-Commerce Sales Dataset containing 10,000 orders across 26 features including sales, profit, shipping, customer segments, and regional data.
-
-## Dataset
-- **File:** `ecommerce_sales_dataset.csv`
-- **Rows:** 10,000 orders
-- **Columns:** 26 features
-- **Years:** 2021–2024
-- **Regions:** North America, Asia, Europe, Middle East
+First baseline Machine Learning model built on the cleaned e-commerce dataset from Week 1. Predicts whether an order will result in a financial loss using Logistic Regression.
 
 ## Project Structure
 ```
-├── ecommerce_eda.ipynb          # Main Jupyter Notebook (EDA)
-├── ecommerce_sales_dataset.csv  # Raw dataset
-├── ecommerce_cleaned.csv        # Cleaned & preprocessed dataset
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+├── baseline_model.ipynb      # Main Jupyter Notebook
+├── ecommerce_cleaned.csv     # Cleaned dataset from Week 1
+├── requirements.txt          # Python dependencies
+└── README.md
 ```
 
 ## How to Run
 ```bash
-# 1. Install dependencies
 pip install -r requirements.txt
-
-# 2. Launch Jupyter Notebook
-jupyter notebook ecommerce_eda.ipynb
+jupyter notebook baseline_model.ipynb
 ```
 
-## Key Business Insights
+## Target Variable
+`Is_Loss` — Binary classification (1 = loss order, 0 = profitable order)
 
-1. **Category Performance** — Electronics & Home/Kitchen generate the highest revenue; Beauty & Health has the best profit margins.
-2. **Revenue Growth** — Clear upward revenue trend from 2021 to 2023; seasonal spikes visible in Q4.
-3. **Customer Segments** — VIP and Premium customers drive disproportionate revenue despite lower order volume.
-4. **Discount Risk** — Negative correlation between discount rate and profit margin. Discounts above 20% significantly erode profitability.
-5. **Loss Orders** — Approximately 15% of all orders result in negative profit — requires pricing and cost structure review.
-6. **Fulfilment Leakage** — Returns + Cancellations account for ~25% of orders, representing major revenue leakage.
-7. **Shipping Efficiency** — Economy shipping is most used but has highest delivery time — risk to customer satisfaction.
+## Key Steps
+1. Load cleaned dataset from Week 1
+2. Separate features (X) and target (y)
+3. 80/20 Train-Test Split with `random_state=42` and `stratify=y`
+4. Train Logistic Regression inside a Pipeline (with StandardScaler)
+5. Predict on unseen test data
+6. Evaluate with accuracy score, classification report, confusion matrix
 
-## Visualizations Produced
-- Correlation Heatmap
-- Revenue & Profit by Category
-- Annual & Monthly Revenue Trends
-- Customer Segment Distribution
-- Discount vs Profit Margin Analysis
-- Regional Performance
-- Order Status Distribution
-- Distribution Plots (Revenue, Profit, Shipping Days, Profit Margin)
+## Important: Data Leakage Prevention
+The StandardScaler is fit **only on X_train** inside a Pipeline. This ensures no information from the test set leaks into the training process — keeping the evaluation statistically valid.
+
+## Results
+- Model: Logistic Regression (C=1.0, max_iter=1000, solver=lbfgs)
+- Split: 80/20, random_state=42, stratified
+- Evaluation: Accuracy, Precision, Recall, F1-Score
 
 ## Tools & Libraries
-- Python 3.x
-- Pandas — Data manipulation
-- NumPy — Numerical operations
-- Matplotlib — Visualizations
-- Seaborn — Statistical plots
-- Jupyter Notebook — Interactive analysis
+- Python 3.x | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn
