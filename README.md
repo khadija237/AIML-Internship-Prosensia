@@ -1,41 +1,37 @@
-# Baseline ML Model — Logistic Regression
-**ProSensia AI/ML Bootcamp | Week 2, Day 1**
+# SMOTE & Feature Interpretability — Day 9
+**ProSensia AI/ML Bootcamp | Week 2, Day 4**
 
 ## Project Overview
-First baseline Machine Learning model built on the cleaned e-commerce dataset from Week 1. Predicts whether an order will result in a financial loss using Logistic Regression.
+Identified severe class imbalance in the target variable, applied SMOTE to balance the training data, retrained the optimized Random Forest, and generated a Feature Importance chart for business interpretability.
 
 ## Project Structure
 ```
-├── baseline_model.ipynb      # Main Jupyter Notebook
-├── ecommerce_cleaned.csv     # Cleaned dataset from Week 1
-├── requirements.txt          # Python dependencies
+├── smote_interpretability_day9.ipynb   # Main Jupyter Notebook
+├── production_rf_model.pkl             # Final production model
+├── ecommerce_cleaned.csv               # Cleaned dataset
+├── requirements.txt
 └── README.md
 ```
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook baseline_model.ipynb
+jupyter notebook smote_interpretability_day9.ipynb
 ```
 
-## Target Variable
-`Is_Loss` — Binary classification (1 = loss order, 0 = profitable order)
+## What is SMOTE?
+**Synthetic Minority Over-sampling Technique** — uses K-Nearest Neighbors to generate synthetic data points for the minority class in the training set only.
 
-## Key Steps
-1. Load cleaned dataset from Week 1
-2. Separate features (X) and target (y)
-3. 80/20 Train-Test Split with `random_state=42` and `stratify=y`
-4. Train Logistic Regression inside a Pipeline (with StandardScaler)
-5. Predict on unseen test data
-6. Evaluate with accuracy score, classification report, confusion matrix
+## Critical Rules Followed
+- SMOTE applied **ONLY** to `X_train` / `y_train`
+- `X_test` / `y_test` kept completely untouched (real data only)
+- Model evaluated on real test data — no synthetic data in evaluation
 
-## Important: Data Leakage Prevention
-The StandardScaler is fit **only on X_train** inside a Pipeline. This ensures no information from the test set leaks into the training process — keeping the evaluation statistically valid.
+## Why Testing on Synthetic Data is Dangerous
+Synthetic data is generated from patterns in training data. Testing on it would make the model appear to perform perfectly — but it would fail on real-world data. This is a catastrophic statistical error.
 
-## Results
-- Model: Logistic Regression (C=1.0, max_iter=1000, solver=lbfgs)
-- Split: 80/20, random_state=42, stratified
-- Evaluation: Accuracy, Precision, Recall, F1-Score
+## Business Interpretation of Feature Importance
+The model primarily relies on financial features (Revenue, Cost, Profit, Discount) to predict loss-making orders. **Actionable insight:** Orders with Discount > 20% AND high Shipping_Cost should trigger a pricing review.
 
 ## Tools & Libraries
-- Python 3.x | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn
+- Python 3.x | Pandas | NumPy | Scikit-Learn | imbalanced-learn | Matplotlib | Seaborn | Joblib
