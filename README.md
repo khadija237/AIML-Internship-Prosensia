@@ -1,56 +1,34 @@
-# Loan Default Prediction — End-to-End Classification Pipeline
-**ProSensia AI/ML Bootcamp | Week 2 Weekend Project**
+# Deep Learning Baseline - PyTorch MLP
+ProSensia AI/ML Bootcamp | Week 3 Day 1
 
-## Project Overview
-End-to-end classification pipeline to predict loan defaults. Three models trained and compared using ROC-AUC curves, F1-Score, Precision, and Recall. Final model selected based on performance on imbalanced data.
+## what i built
+first deep learning model using pytorch. converted loan default dataset into tensors and trained a multi layer perceptron from scratch without using sklearn fit.
 
-## Project Structure
-```
-├── loan_default_pipeline.ipynb    # Main Jupyter Notebook
-├── loan_default_dataset.csv       # Dataset (5000 samples, 14 features)
-├── loan_default_rf_model.pkl      # Saved winning model
-├── requirements.txt               # Python dependencies
-├── AI_Utilization_Report.md       # LLM usage documentation
-└── README.md
-```
+## files
+- deep_learning_baseline.ipynb
+- loan_default_dataset.csv
+- requirements.txt
+- README.md
 
-## How to Run
-```bash
+## how to run
 pip install -r requirements.txt
-jupyter notebook loan_default_pipeline.ipynb
-```
+jupyter notebook deep_learning_baseline.ipynb
 
-## Dataset
-- 5,000 loan applications | 14 features | Target: `Loan_Default` (binary)
-- Default rate: ~20% — class imbalance handled with SMOTE
+## model
+Input(15) -> Linear(64) -> ReLU -> Dropout -> Linear(32) -> ReLU -> Dropout -> Linear(2)
 
-## Pipeline Steps
-1. Data loading & inspection
-2. EDA & correlation heatmap
-3. Feature engineering (Loan-to-Income ratio, Risk Score, etc.)
-4. 80/20 Train-Test Split (`random_state=42`, `stratify=y`)
-5. SMOTE on `X_train` only (no leakage)
-6. Train 3 models: Logistic Regression, Decision Tree, Random Forest
-7. ROC-AUC curve comparison
-8. Confusion matrices & classification reports
-9. Feature importance analysis
-10. Best model saved as `.pkl`
+## training
+20 epochs, manual loop:
+- zero_grad
+- forward pass
+- loss calculation
+- backward (backprop)
+- optimizer step
 
-## Model Results
+## numpy vs pytorch tensor
+numpy: cpu only, no gradients
+pytorch: cpu+gpu, autograd tracks gradients for backprop
 
-| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
-|-------|----------|-----------|--------|----|---------|
-| Logistic Regression | ~75% | — | — | — | — |
-| Decision Tree | ~79% | — | — | — | — |
-| **Random Forest** | **~84%** | **best** | **best** | **best** | **best** |
-
-## Winner: Random Forest
-Best ROC-AUC and F1-Score. Handles non-linear feature interactions. Ensemble of 100 trees reduces overfitting via bagging.
-
-## Key Business Insight
-Credit Score, Debt-To-Income Ratio, and Num_Late_Payments are the strongest predictors of loan default. High-risk applicants: Credit Score < 580 AND DTI > 0.45.
-
-## No Data Leakage — Verified
-- SMOTE applied ONLY after train-test split
-- StandardScaler fitted ONLY on X_train (inside Pipeline)
-- `random_state=42` set throughout for reproducibility
+## relu vs sigmoid
+sigmoid has vanishing gradient problem for deep networks
+relu = max(0,x), gradient doesnt go to zero, trains much better
