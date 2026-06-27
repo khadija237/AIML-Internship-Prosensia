@@ -1,9 +1,9 @@
-# PyTorch DataLoader + Adam Optimizer
-ProSensia AI/ML Bootcamp | Week 3 Day 2
+# Regularization - BatchNorm + Dropout
+ProSensia AI/ML Bootcamp | Week 3 Day 3
 
-## what i did today
-upgraded day 11 notebook to use TensorDataset and DataLoader for mini-batch training.
-also tracked validation loss every epoch to check for overfitting.
+## what i did
+added batchnorm1d and dropout to the mlp from day 12.
+trained both baseline and regularized model for 30 epochs and compared their loss curves.
 
 ## files
 - deep_learning_baseline.ipynb
@@ -15,19 +15,19 @@ also tracked validation loss every epoch to check for overfitting.
 pip install -r requirements.txt
 jupyter notebook deep_learning_baseline.ipynb
 
-## changes from day 11
-- wrapped tensors in TensorDataset
-- created train_loader (batch_size=64, shuffle=True) and val_loader (shuffle=False)
-- training loop now iterates over batches not full tensor
-- added validation loss tracking per epoch
-- 25 epochs instead of 20
+## regularized architecture
+Linear -> BatchNorm1d -> ReLU -> Dropout(0.3) -> Linear -> BatchNorm1d -> ReLU -> Dropout(0.3) -> Output
 
-## adam vs sgd
-sgd uses same learning rate for all parameters
-adam adapts lr per parameter using moving averages of gradients (mt) and squared gradients (vt)
-adam converges faster and handles sparse features better
+## batchnorm
+normalizes features across the batch using learnable gamma and beta
+reduces internal covariate shift so training is more stable
 
-## why mini-batches
-loading full dataset at once causes RAM issues for large data
-batch_size=64 means only 64 samples in memory at a time
-more frequent gradient updates = better learning
+## dropout
+p=0.3 means 30% neurons randomly turned off each forward pass
+retained activations scaled by 1/(1-p) = 1/0.7 during training
+at eval time dropout is disabled
+acts like an ensemble of smaller networks
+
+## model.train() vs model.eval()
+model.train() -> dropout active, batchnorm uses batch stats
+model.eval()  -> dropout off, batchnorm uses running averages
