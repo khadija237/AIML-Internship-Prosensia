@@ -1,0 +1,1251 @@
+Review_ID,Product_ID,Review_Text,Star_Rating
+1,PROD_370,   This product is absolutely amazing! Loved every bit of it 😍   ,3
+2,PROD_714,<b>Worst purchase ever</b> do not buy this garbage<p>,2
+3,PROD_558,<br><p>Excellent product</p> highly recommended to everyone<br>,5
+4,PROD_230,Waste of money!! stopped working after one week  ,5
+5,PROD_591,"Not bad not great, somewhere in the middle i think",2
+6,PROD_260,   Super fast delivery and product quality is top notch!!   ,4
+7,PROD_847,"Complete scam, returned it immediately. 0 stars<p>",1
+8,PROD_610,<br>Amazing value for money. Really impressed with the build quality<br>,2
+9,PROD_882,"  
+  Best product in this price range hands down 👍👍  
+  ",3
+10,PROD_931,"  
+  Packaging was great and product works flawlessly  
+  ",1
+11,PROD_746,"<br>Really good product, will definitely recommend to friends<br>",5
+12,PROD_487," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",1
+13,PROD_341,"Its fine i guess, works as expected nothing more",2
+14,PROD_997,   Love the design and it works exactly as described   ,4
+15,PROD_554,"  
+  10/10 would buy again. customer service was also helpful  
+  ",4
+16,PROD_134,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+17,PROD_487,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",2
+18,PROD_205, &nbsp; <p>Excellent product</p> highly recommended to everyone &nbsp; ,4
+19,PROD_501,<br>5 stars!! best purchase i made this year<br>,2
+20,PROD_369," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",4
+21,PROD_824,"  
+  Super fast delivery and product quality is top notch!!  
+  ",5
+22,PROD_891,"   I love this so much, exceeded my expectations completely   ",2
+23,PROD_287,"Its fine i guess, works as expected nothing more",4
+24,PROD_114,   Best product in this price range hands down 👍👍   ,5
+25,PROD_620,<br>Packaging was great and product works flawlessly<br>,1
+26,PROD_162,"  
+  Really good product, will definitely recommend to friends  
+  ",3
+27,PROD_774,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",3
+28,PROD_589,"Worst product i have ever bought, avoid at all costs<p>",2
+29,PROD_300,<br>Love the design and it works exactly as described<br>,4
+30,PROD_602,"  
+  10/10 would buy again. customer service was also helpful  
+  ",5
+31,PROD_825,Terrible product!! broke after 2 days of use 😡  ,3
+32,PROD_712,<b>Worst purchase ever</b> do not buy this garbage&amp;,3
+33,PROD_602,"Very disappointed, product looks nothing like the pictures</p>",3
+34,PROD_957,Waste of money!! stopped working after one week&amp;,2
+35,PROD_674,"<br>Works perfectly fine, very happy with this purchase &amp;<br>",1
+36,PROD_833,"  
+  Super fast delivery and product quality is top notch!!  
+  ",5
+37,PROD_754,"   I love this so much, exceeded my expectations completely   ",3
+38,PROD_259,   Amazing value for money. Really impressed with the build quality   ,3
+39,PROD_677,Do not buy this!! total waste of time and money  ,2
+40,PROD_745,Meets basic requirements but quality could be better,4
+41,PROD_655,"Product is okay, nothing special but does the job",4
+42,PROD_430,"Average quality for the price, expected a bit more",2
+43,PROD_330,"   Totally worth the price, very satisfied customer here   ",1
+44,PROD_732,<br>Love the design and it works exactly as described<br>,4
+45,PROD_458,<br>10/10 would buy again. customer service was also helpful<br>,3
+46,PROD_324,   This product is absolutely amazing! Loved every bit of it 😍   ,3
+47,PROD_926,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",1
+48,PROD_596, &nbsp; <p>Excellent product</p> highly recommended to everyone &nbsp; ,2
+49,PROD_609,"Neither good nor bad, just an okay product overall",2
+50,PROD_724,"Poor quality, feels very cheap. Not worth it at all<p>",1
+51,PROD_741, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,4
+52,PROD_835,"   I love this so much, exceeded my expectations completely   ",1
+53,PROD_229,"Horrible experience, packaging was damaged and product broken</p>",5
+54,PROD_809,"  
+  Best product in this price range hands down 👍👍  
+  ",4
+55,PROD_222,"  
+  Packaging was great and product works flawlessly  
+  ",1
+56,PROD_936,"Disappointed with the product, not as described at all  ",4
+57,PROD_610,"Okay product, will see how long it lasts",1
+58,PROD_425,"<br>Totally worth the price, very satisfied customer here<br>",5
+59,PROD_863,"Neither good nor bad, just an okay product overall",3
+60,PROD_610, &nbsp; 10/10 would buy again. customer service was also helpful &nbsp; ,3
+61,PROD_919,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+62,PROD_650,<b>Worst purchase ever</b> do not buy this garbage  ,2
+63,PROD_878,"Its fine i guess, works as expected nothing more",4
+64,PROD_250,Waste of money!! stopped working after one week</p>,2
+65,PROD_243,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",2
+66,PROD_671,It works but nothing to write home about really,1
+67,PROD_353,"  
+  I love this so much, exceeded my expectations completely  
+  ",4
+68,PROD_108,"Horrible experience, packaging was damaged and product broken  ",1
+69,PROD_307,"  
+  Best product in this price range hands down 👍👍  
+  ",3
+70,PROD_153,Meets basic requirements but quality could be better,1
+71,PROD_724,"Disappointed with the product, not as described at all&amp;",4
+72,PROD_951,"Average quality for the price, expected a bit more",3
+73,PROD_198,"   Totally worth the price, very satisfied customer here   ",1
+74,PROD_977,"  
+  Love the design and it works exactly as described  
+  ",2
+75,PROD_819,<br>10/10 would buy again. customer service was also helpful<br>,5
+76,PROD_679,   This product is absolutely amazing! Loved every bit of it 😍   ,1
+77,PROD_603,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",3
+78,PROD_787,"Very disappointed, product looks nothing like the pictures<p>",4
+79,PROD_474,Waste of money!! stopped working after one week</p>,5
+80,PROD_382,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",3
+81,PROD_708,Arrived broken and customer support was useless 😤</p>,4
+82,PROD_552,"Complete scam, returned it immediately. 0 stars<p>",4
+83,PROD_615,"Horrible experience, packaging was damaged and product broken&amp;",3
+84,PROD_116,Do not buy this!! total waste of time and money  ,4
+85,PROD_576,"Not bad not great, somewhere in the middle i think",5
+86,PROD_991,It works but nothing to write home about really,1
+87,PROD_448,"Okay product, will see how long it lasts",1
+88,PROD_198,"Worst product i have ever bought, avoid at all costs&amp;",4
+89,PROD_290,"Neither good nor bad, just an okay product overall",5
+90,PROD_260,<br>10/10 would buy again. customer service was also helpful<br>,3
+91,PROD_834,   This product is absolutely amazing! Loved every bit of it 😍   ,2
+92,PROD_785,"Average quality for the price, expected a bit more",2
+93,PROD_762,"Very disappointed, product looks nothing like the pictures</p>",2
+94,PROD_485, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,2
+95,PROD_492,"Poor quality, feels very cheap. Not worth it at all<p>",3
+96,PROD_576,Arrived broken and customer support was useless 😤&amp;,2
+97,PROD_966,"Okay product, will see how long it lasts",2
+98,PROD_624,"Pretty average, does what it says in the description",4
+99,PROD_135,Do not buy this!! total waste of time and money<p>,5
+100,PROD_611,"  
+  Packaging was great and product works flawlessly  
+  ",4
+101,PROD_242,"Product is okay, nothing special but does the job",4
+102,PROD_826,"Stopped working after 3 days, very poor build quality  ",3
+103,PROD_289,"<br>Totally worth the price, very satisfied customer here<br>",5
+104,PROD_669,"Decent product, shipping was slow though",1
+105,PROD_882, &nbsp; 10/10 would buy again. customer service was also helpful &nbsp; ,3
+106,PROD_363,   This product is absolutely amazing! Loved every bit of it 😍   ,5
+107,PROD_104,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",4
+108,PROD_983,"Pretty average, does what it says in the description",3
+109,PROD_755,Waste of money!! stopped working after one week  ,5
+110,PROD_205,Meets basic requirements but quality could be better,3
+111,PROD_886,Arrived broken and customer support was useless 😤&amp;,4
+112,PROD_840,"Complete scam, returned it immediately. 0 stars</p>",2
+113,PROD_890,"Its fine i guess, works as expected nothing more",1
+114,PROD_157,Do not buy this!! total waste of time and money<p>,2
+115,PROD_195, &nbsp; Packaging was great and product works flawlessly &nbsp; ,1
+116,PROD_996,"Disappointed with the product, not as described at all<p>",5
+117,PROD_680,"Stopped working after 3 days, very poor build quality&amp;",5
+118,PROD_253,"  
+  Totally worth the price, very satisfied customer here  
+  ",3
+119,PROD_384,Terrible!! arrived late and was completely broken<p>,4
+120,PROD_193,   10/10 would buy again. customer service was also helpful   ,4
+121,PROD_317,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",2
+122,PROD_711,"<br>Great quality, fast shipping. Will buy again!!<br>",1
+123,PROD_122,   <p>Excellent product</p> highly recommended to everyone   ,2
+124,PROD_199,Waste of money!! stopped working after one week<p>,2
+125,PROD_861," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",3
+126,PROD_424,Arrived broken and customer support was useless 😤<p>,5
+127,PROD_435,"  
+  I love this so much, exceeded my expectations completely  
+  ",2
+128,PROD_259,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",3
+129,PROD_789,"Neither good nor bad, just an okay product overall",3
+130,PROD_790,"Very bad quality, plastic feels cheap will break easily<p>",3
+131,PROD_934,"Product is okay, nothing special but does the job",1
+132,PROD_941,"Average quality for the price, expected a bit more",3
+133,PROD_111,"   Totally worth the price, very satisfied customer here   ",2
+134,PROD_134, &nbsp; Love the design and it works exactly as described &nbsp; ,1
+135,PROD_701,"Not recommended at all, save your money for something better<p>",2
+136,PROD_295,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,2
+137,PROD_174,<b>Worst purchase ever</b> do not buy this garbage<p>,5
+138,PROD_376,   <p>Excellent product</p> highly recommended to everyone   ,5
+139,PROD_968, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,1
+140,PROD_788,"Poor quality, feels very cheap. Not worth it at all&amp;",3
+141,PROD_195, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,5
+142,PROD_624,"<br>I love this so much, exceeded my expectations completely<br>",1
+143,PROD_372, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,1
+144,PROD_828,Do not buy this!! total waste of time and money  ,5
+145,PROD_276,"Not bad not great, somewhere in the middle i think",4
+146,PROD_175,"   Really good product, will definitely recommend to friends   ",1
+147,PROD_834," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",4
+148,PROD_243,"Worst product i have ever bought, avoid at all costs&amp;",5
+149,PROD_124,"  
+  Love the design and it works exactly as described  
+  ",4
+150,PROD_664,"Not recommended at all, save your money for something better  ",1
+151,PROD_141,   This product is absolutely amazing! Loved every bit of it 😍   ,2
+152,PROD_733,"<br>Great quality, fast shipping. Will buy again!!<br>",5
+153,PROD_334,"Very disappointed, product looks nothing like the pictures<p>",3
+154,PROD_108,"  
+  5 stars!! best purchase i made this year  
+  ",2
+155,PROD_352,"Not bad not great, somewhere in the middle i think",5
+156,PROD_894,   Super fast delivery and product quality is top notch!!   ,2
+157,PROD_264,"   I love this so much, exceeded my expectations completely   ",3
+158,PROD_932,"Horrible experience, packaging was damaged and product broken<p>",4
+159,PROD_316,<br>Best product in this price range hands down 👍👍<br>,5
+160,PROD_351,"Very bad quality, plastic feels cheap will break easily</p>",3
+161,PROD_266,"Disappointed with the product, not as described at all</p>",3
+162,PROD_138,"<br>Outstanding quality, arrived on time and works perfectly<br>",3
+163,PROD_319," &nbsp; Totally worth the price, very satisfied customer here &nbsp; ",2
+164,PROD_928,Terrible!! arrived late and was completely broken  ,1
+165,PROD_447,"Not recommended at all, save your money for something better&amp;",1
+166,PROD_508,   This product is absolutely amazing! Loved every bit of it 😍   ,1
+167,PROD_157," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",4
+168,PROD_272,"Pretty average, does what it says in the description",5
+169,PROD_985,"  
+  5 stars!! best purchase i made this year  
+  ",5
+170,PROD_328,Meets basic requirements but quality could be better,4
+171,PROD_540,Arrived broken and customer support was useless 😤  ,2
+172,PROD_625,"   I love this so much, exceeded my expectations completely   ",1
+173,PROD_358,"Horrible experience, packaging was damaged and product broken</p>",1
+174,PROD_429,"Decent product, shipping was slow though",4
+175,PROD_107,   Packaging was great and product works flawlessly   ,2
+176,PROD_747," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",2
+177,PROD_831,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",5
+178,PROD_803,"Pretty average, does what it says in the description",3
+179,PROD_300,Terrible!! arrived late and was completely broken<p>,1
+180,PROD_831,   10/10 would buy again. customer service was also helpful   ,5
+181,PROD_352,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,2
+182,PROD_914,"   Great quality, fast shipping. Will buy again!!   ",1
+183,PROD_897,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",2
+184,PROD_218,Waste of money!! stopped working after one week<p>,1
+185,PROD_323,"Poor quality, feels very cheap. Not worth it at all</p>",1
+186,PROD_162, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,1
+187,PROD_894,"Okay product, will see how long it lasts",1
+188,PROD_709,"Pretty average, does what it says in the description",1
+189,PROD_504,   Best product in this price range hands down 👍👍   ,4
+190,PROD_962,Meets basic requirements but quality could be better,5
+191,PROD_536,"Product is okay, nothing special but does the job",5
+192,PROD_557,"Stopped working after 3 days, very poor build quality</p>",3
+193,PROD_556," &nbsp; Totally worth the price, very satisfied customer here &nbsp; ",1
+194,PROD_816,"Decent product, shipping was slow though",4
+195,PROD_587,   10/10 would buy again. customer service was also helpful   ,2
+196,PROD_650,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",2
+197,PROD_217," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",3
+198,PROD_153,"Very disappointed, product looks nothing like the pictures  ",4
+199,PROD_862,Waste of money!! stopped working after one week</p>,1
+200,PROD_402,"Poor quality, feels very cheap. Not worth it at all&amp;",5
+201,PROD_174,Arrived broken and customer support was useless 😤</p>,3
+202,PROD_803,"Average quality for the price, expected a bit more",4
+203,PROD_405,"Its fine i guess, works as expected nothing more",2
+204,PROD_958,Do not buy this!! total waste of time and money&amp;,3
+205,PROD_407,"Not bad not great, somewhere in the middle i think",1
+206,PROD_434,"Disappointed with the product, not as described at all  ",4
+207,PROD_662," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",1
+208,PROD_237,"Pretty average, does what it says in the description",1
+209,PROD_951,"  
+  Love the design and it works exactly as described  
+  ",5
+210,PROD_152,Meets basic requirements but quality could be better,2
+211,PROD_142,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,3
+212,PROD_762,"   Great quality, fast shipping. Will buy again!!   ",3
+213,PROD_459,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",4
+214,PROD_963,<br>5 stars!! best purchase i made this year<br>,3
+215,PROD_160,"Poor quality, feels very cheap. Not worth it at all  ",2
+216,PROD_104,   Super fast delivery and product quality is top notch!!   ,2
+217,PROD_633,"   I love this so much, exceeded my expectations completely   ",5
+218,PROD_332,"Horrible experience, packaging was damaged and product broken<p>",4
+219,PROD_177, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,2
+220,PROD_893,"Very bad quality, plastic feels cheap will break easily<p>",1
+221,PROD_338," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",3
+222,PROD_672,"Average quality for the price, expected a bit more",1
+223,PROD_107,"   Totally worth the price, very satisfied customer here   ",1
+224,PROD_818,Terrible!! arrived late and was completely broken  ,2
+225,PROD_315,"Not recommended at all, save your money for something better</p>",2
+226,PROD_798,Terrible product!! broke after 2 days of use 😡</p>,3
+227,PROD_849,<b>Worst purchase ever</b> do not buy this garbage&amp;,3
+228,PROD_373,"Very disappointed, product looks nothing like the pictures<p>",2
+229,PROD_114,<br>5 stars!! best purchase i made this year<br>,1
+230,PROD_813,"Poor quality, feels very cheap. Not worth it at all  ",1
+231,PROD_185,"Product is okay, nothing special but does the job",2
+232,PROD_244,"Complete scam, returned it immediately. 0 stars<p>",5
+233,PROD_493,"Horrible experience, packaging was damaged and product broken  ",3
+234,PROD_210,Do not buy this!! total waste of time and money</p>,4
+235,PROD_722,"Very bad quality, plastic feels cheap will break easily</p>",1
+236,PROD_524,"Disappointed with the product, not as described at all</p>",5
+237,PROD_419," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",2
+238,PROD_976,"<br>Totally worth the price, very satisfied customer here<br>",5
+239,PROD_536,"Neither good nor bad, just an okay product overall",5
+240,PROD_723,<br>10/10 would buy again. customer service was also helpful<br>,4
+241,PROD_545,"Product is okay, nothing special but does the job",1
+242,PROD_642,"<br>Great quality, fast shipping. Will buy again!!<br>",5
+243,PROD_322,"Its fine i guess, works as expected nothing more",2
+244,PROD_103,Waste of money!! stopped working after one week&amp;,1
+245,PROD_673," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",1
+246,PROD_491,Arrived broken and customer support was useless 😤&amp;,2
+247,PROD_744,"  
+  I love this so much, exceeded my expectations completely  
+  ",2
+248,PROD_823,<br>Amazing value for money. Really impressed with the build quality<br>,1
+249,PROD_658,Do not buy this!! total waste of time and money  ,1
+250,PROD_649,"Very bad quality, plastic feels cheap will break easily  ",5
+251,PROD_967,"Disappointed with the product, not as described at all&amp;",5
+252,PROD_789,"Stopped working after 3 days, very poor build quality<p>",2
+253,PROD_271,"Worst product i have ever bought, avoid at all costs</p>",2
+254,PROD_695, &nbsp; Love the design and it works exactly as described &nbsp; ,1
+255,PROD_884,   10/10 would buy again. customer service was also helpful   ,1
+256,PROD_649,Terrible product!! broke after 2 days of use 😡  ,3
+257,PROD_680,"   Great quality, fast shipping. Will buy again!!   ",4
+258,PROD_433,"Pretty average, does what it says in the description",5
+259,PROD_687,Waste of money!! stopped working after one week<p>,3
+260,PROD_419,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",4
+261,PROD_939,"Product is okay, nothing special but does the job",3
+262,PROD_927,"Complete scam, returned it immediately. 0 stars</p>",3
+263,PROD_950,   Amazing value for money. Really impressed with the build quality   ,3
+264,PROD_231,Do not buy this!! total waste of time and money</p>,1
+265,PROD_188,"Not bad not great, somewhere in the middle i think",2
+266,PROD_394,It works but nothing to write home about really,3
+267,PROD_122,"Stopped working after 3 days, very poor build quality<p>",1
+268,PROD_602,"   Totally worth the price, very satisfied customer here   ",2
+269,PROD_203,Terrible!! arrived late and was completely broken  ,3
+270,PROD_745,"Not recommended at all, save your money for something better</p>",3
+271,PROD_653,Terrible product!! broke after 2 days of use 😡  ,4
+272,PROD_388,<b>Worst purchase ever</b> do not buy this garbage<p>,4
+273,PROD_519,"Very disappointed, product looks nothing like the pictures&amp;",5
+274,PROD_510,   5 stars!! best purchase i made this year   ,1
+275,PROD_933," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",2
+276,PROD_964, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,5
+277,PROD_976,"  
+  I love this so much, exceeded my expectations completely  
+  ",4
+278,PROD_747,   Amazing value for money. Really impressed with the build quality   ,5
+279,PROD_943,"  
+  Best product in this price range hands down 👍👍  
+  ",5
+280,PROD_726,"Very bad quality, plastic feels cheap will break easily&amp;",3
+281,PROD_910,"Disappointed with the product, not as described at all</p>",3
+282,PROD_353,"<br>Outstanding quality, arrived on time and works perfectly<br>",2
+283,PROD_811," &nbsp; Totally worth the price, very satisfied customer here &nbsp; ",2
+284,PROD_495,"Decent product, shipping was slow though",2
+285,PROD_309,"Not recommended at all, save your money for something better</p>",1
+286,PROD_927,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",3
+287,PROD_455,"Okay product, will see how long it lasts",4
+288,PROD_939,"Very disappointed, product looks nothing like the pictures<p>",2
+289,PROD_477,Waste of money!! stopped working after one week&amp;,1
+290,PROD_561,"   Works perfectly fine, very happy with this purchase &amp;   ",1
+291,PROD_506,"Product is okay, nothing special but does the job",1
+292,PROD_445,"   I love this so much, exceeded my expectations completely   ",4
+293,PROD_100,   Amazing value for money. Really impressed with the build quality   ,3
+294,PROD_530,Do not buy this!! total waste of time and money<p>,1
+295,PROD_535,"Very bad quality, plastic feels cheap will break easily</p>",1
+296,PROD_902,"   Really good product, will definitely recommend to friends   ",4
+297,PROD_905,"Stopped working after 3 days, very poor build quality&amp;",2
+298,PROD_517,"<br>Totally worth the price, very satisfied customer here<br>",3
+299,PROD_975,<br>Love the design and it works exactly as described<br>,3
+300,PROD_124,"  
+  10/10 would buy again. customer service was also helpful  
+  ",4
+301,PROD_260,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",1
+302,PROD_761,<b>Worst purchase ever</b> do not buy this garbage&amp;,2
+303,PROD_148,   <p>Excellent product</p> highly recommended to everyone   ,1
+304,PROD_788,"Decent product, shipping was slow though",4
+305,PROD_162,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",5
+306,PROD_868,<br>Super fast delivery and product quality is top notch!!<br>,5
+307,PROD_990,"<br>I love this so much, exceeded my expectations completely<br>",3
+308,PROD_384, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,1
+309,PROD_243, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,3
+310,PROD_470, &nbsp; Packaging was great and product works flawlessly &nbsp; ,2
+311,PROD_212,"Disappointed with the product, not as described at all  ",2
+312,PROD_930,"<br>Outstanding quality, arrived on time and works perfectly<br>",4
+313,PROD_154,"   Totally worth the price, very satisfied customer here   ",3
+314,PROD_977, &nbsp; Love the design and it works exactly as described &nbsp; ,2
+315,PROD_154,<br>10/10 would buy again. customer service was also helpful<br>,4
+316,PROD_490,It works but nothing to write home about really,5
+317,PROD_858,"   Great quality, fast shipping. Will buy again!!   ",3
+318,PROD_866,<br><p>Excellent product</p> highly recommended to everyone<br>,5
+319,PROD_338,Waste of money!! stopped working after one week<p>,5
+320,PROD_703,"   Works perfectly fine, very happy with this purchase &amp;   ",2
+321,PROD_187,"Product is okay, nothing special but does the job",3
+322,PROD_599,"Average quality for the price, expected a bit more",5
+323,PROD_834, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,2
+324,PROD_772,<br>Best product in this price range hands down 👍👍<br>,5
+325,PROD_647,   Packaging was great and product works flawlessly   ,5
+326,PROD_996," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",5
+327,PROD_485," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",3
+328,PROD_631,"Worst product i have ever bought, avoid at all costs  ",5
+329,PROD_833,"  
+  Love the design and it works exactly as described  
+  ",1
+330,PROD_966,"  
+  10/10 would buy again. customer service was also helpful  
+  ",4
+331,PROD_463,"Product is okay, nothing special but does the job",1
+332,PROD_731,"Average quality for the price, expected a bit more",3
+333,PROD_227,"Its fine i guess, works as expected nothing more",1
+334,PROD_625,   5 stars!! best purchase i made this year   ,1
+335,PROD_380,"Poor quality, feels very cheap. Not worth it at all<p>",1
+336,PROD_593,<br>Super fast delivery and product quality is top notch!!<br>,4
+337,PROD_208,"   I love this so much, exceeded my expectations completely   ",2
+338,PROD_937,<br>Amazing value for money. Really impressed with the build quality<br>,2
+339,PROD_455,Do not buy this!! total waste of time and money</p>,1
+340,PROD_776,   Packaging was great and product works flawlessly   ,1
+341,PROD_698,"  
+  Really good product, will definitely recommend to friends  
+  ",5
+342,PROD_126,"   Outstanding quality, arrived on time and works perfectly   ",1
+343,PROD_267,"<br>Totally worth the price, very satisfied customer here<br>",2
+344,PROD_920,Terrible!! arrived late and was completely broken<p>,2
+345,PROD_575,"Not bad not great, somewhere in the middle i think",2
+346,PROD_921, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,3
+347,PROD_391,"   Great quality, fast shipping. Will buy again!!   ",3
+348,PROD_878,   <p>Excellent product</p> highly recommended to everyone   ,3
+349,PROD_286,   5 stars!! best purchase i made this year   ,3
+350,PROD_154,Meets basic requirements but quality could be better,5
+351,PROD_647, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,4
+352,PROD_590,"  
+  I love this so much, exceeded my expectations completely  
+  ",1
+353,PROD_581,   Amazing value for money. Really impressed with the build quality   ,1
+354,PROD_172,Do not buy this!! total waste of time and money<p>,1
+355,PROD_316,   Packaging was great and product works flawlessly   ,5
+356,PROD_124,"Disappointed with the product, not as described at all</p>",3
+357,PROD_328,"Okay product, will see how long it lasts",4
+358,PROD_201,"Worst product i have ever bought, avoid at all costs</p>",2
+359,PROD_143,   Love the design and it works exactly as described   ,3
+360,PROD_116,Meets basic requirements but quality could be better,2
+361,PROD_914,Terrible product!! broke after 2 days of use 😡<p>,4
+362,PROD_438,<b>Worst purchase ever</b> do not buy this garbage  ,5
+363,PROD_473,"Very disappointed, product looks nothing like the pictures<p>",1
+364,PROD_367,"Decent product, shipping was slow though",3
+365,PROD_976,"Not bad not great, somewhere in the middle i think",2
+366,PROD_115, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,1
+367,PROD_185,"   I love this so much, exceeded my expectations completely   ",2
+368,PROD_728,<br>Amazing value for money. Really impressed with the build quality<br>,1
+369,PROD_597,"  
+  Best product in this price range hands down 👍👍  
+  ",3
+370,PROD_693,Meets basic requirements but quality could be better,4
+371,PROD_501,"Product is okay, nothing special but does the job",3
+372,PROD_372,"Average quality for the price, expected a bit more",3
+373,PROD_197,"Worst product i have ever bought, avoid at all costs<p>",3
+374,PROD_282,Terrible!! arrived late and was completely broken  ,4
+375,PROD_596,"Not recommended at all, save your money for something better  ",4
+376,PROD_496,Terrible product!! broke after 2 days of use 😡<p>,2
+377,PROD_525,<b>Worst purchase ever</b> do not buy this garbage<p>,4
+378,PROD_838,<br><p>Excellent product</p> highly recommended to everyone<br>,2
+379,PROD_350,"Neither good nor bad, just an okay product overall",5
+380,PROD_707,"Poor quality, feels very cheap. Not worth it at all  ",3
+381,PROD_128, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,1
+382,PROD_847,"   I love this so much, exceeded my expectations completely   ",1
+383,PROD_338,"Horrible experience, packaging was damaged and product broken  ",1
+384,PROD_458,Do not buy this!! total waste of time and money<p>,4
+385,PROD_788,"Very bad quality, plastic feels cheap will break easily</p>",3
+386,PROD_769,"  
+  Really good product, will definitely recommend to friends  
+  ",2
+387,PROD_392," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",1
+388,PROD_684,"   Totally worth the price, very satisfied customer here   ",1
+389,PROD_239,"  
+  Love the design and it works exactly as described  
+  ",3
+390,PROD_160,Meets basic requirements but quality could be better,5
+391,PROD_906, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,3
+392,PROD_325,"Average quality for the price, expected a bit more",1
+393,PROD_670,"Very disappointed, product looks nothing like the pictures  ",4
+394,PROD_409,"Decent product, shipping was slow though",5
+395,PROD_465,"Not bad not great, somewhere in the middle i think",2
+396,PROD_317,   Super fast delivery and product quality is top notch!!   ,1
+397,PROD_987,"<br>I love this so much, exceeded my expectations completely<br>",5
+398,PROD_826,<br>Amazing value for money. Really impressed with the build quality<br>,1
+399,PROD_989,Do not buy this!! total waste of time and money  ,1
+400,PROD_518, &nbsp; Packaging was great and product works flawlessly &nbsp; ,2
+401,PROD_315,"   Really good product, will definitely recommend to friends   ",3
+402,PROD_880,"Average quality for the price, expected a bit more",5
+403,PROD_679,"Worst product i have ever bought, avoid at all costs<p>",5
+404,PROD_422,   Love the design and it works exactly as described   ,3
+405,PROD_294,   10/10 would buy again. customer service was also helpful   ,1
+406,PROD_269,It works but nothing to write home about really,1
+407,PROD_360,"   Great quality, fast shipping. Will buy again!!   ",3
+408,PROD_223,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",3
+409,PROD_553,Waste of money!! stopped working after one week</p>,5
+410,PROD_895,"   Works perfectly fine, very happy with this purchase &amp;   ",5
+411,PROD_213,"Product is okay, nothing special but does the job",5
+412,PROD_214,"   I love this so much, exceeded my expectations completely   ",2
+413,PROD_965,"Horrible experience, packaging was damaged and product broken  ",3
+414,PROD_388,"Decent product, shipping was slow though",3
+415,PROD_191,"Not bad not great, somewhere in the middle i think",1
+416,PROD_780,"  
+  Really good product, will definitely recommend to friends  
+  ",5
+417,PROD_444,"Okay product, will see how long it lasts",5
+418,PROD_766,"Worst product i have ever bought, avoid at all costs&amp;",4
+419,PROD_656,<br>Love the design and it works exactly as described<br>,2
+420,PROD_634,<br>10/10 would buy again. customer service was also helpful<br>,2
+421,PROD_536,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,2
+422,PROD_817,"Average quality for the price, expected a bit more",5
+423,PROD_323,"Very disappointed, product looks nothing like the pictures&amp;",5
+424,PROD_332,Waste of money!! stopped working after one week<p>,1
+425,PROD_799," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",5
+426,PROD_566,Arrived broken and customer support was useless 😤</p>,2
+427,PROD_930," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",4
+428,PROD_136,"Horrible experience, packaging was damaged and product broken</p>",5
+429,PROD_963,Do not buy this!! total waste of time and money  ,4
+430,PROD_291,<br>Packaging was great and product works flawlessly<br>,1
+431,PROD_985,"Disappointed with the product, not as described at all<p>",1
+432,PROD_309,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",2
+433,PROD_786,"Its fine i guess, works as expected nothing more",5
+434,PROD_326,<br>Love the design and it works exactly as described<br>,4
+435,PROD_128,"Not recommended at all, save your money for something better&amp;",3
+436,PROD_978,It works but nothing to write home about really,3
+437,PROD_637,"<br>Great quality, fast shipping. Will buy again!!<br>",2
+438,PROD_615,   <p>Excellent product</p> highly recommended to everyone   ,1
+439,PROD_138,   5 stars!! best purchase i made this year   ,5
+440,PROD_899,"Poor quality, feels very cheap. Not worth it at all  ",2
+441,PROD_121,Arrived broken and customer support was useless 😤  ,3
+442,PROD_481,"   I love this so much, exceeded my expectations completely   ",4
+443,PROD_120,   Amazing value for money. Really impressed with the build quality   ,5
+444,PROD_758,Do not buy this!! total waste of time and money</p>,1
+445,PROD_356,<br>Packaging was great and product works flawlessly<br>,2
+446,PROD_626,It works but nothing to write home about really,2
+447,PROD_892,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",4
+448,PROD_307,"Worst product i have ever bought, avoid at all costs  ",3
+449,PROD_529,"Neither good nor bad, just an okay product overall",1
+450,PROD_408,Meets basic requirements but quality could be better,3
+451,PROD_298,"Product is okay, nothing special but does the job",3
+452,PROD_792,<b>Worst purchase ever</b> do not buy this garbage  ,4
+453,PROD_657,"Its fine i guess, works as expected nothing more",1
+454,PROD_372,<br>5 stars!! best purchase i made this year<br>,4
+455,PROD_777,"   Works perfectly fine, very happy with this purchase &amp;   ",1
+456,PROD_600, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,5
+457,PROD_494,"Complete scam, returned it immediately. 0 stars  ",5
+458,PROD_373,   Amazing value for money. Really impressed with the build quality   ,2
+459,PROD_265,<br>Best product in this price range hands down 👍👍<br>,3
+460,PROD_201,"Very bad quality, plastic feels cheap will break easily<p>",1
+461,PROD_790," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",1
+462,PROD_145,"   Outstanding quality, arrived on time and works perfectly   ",4
+463,PROD_341,"Worst product i have ever bought, avoid at all costs</p>",4
+464,PROD_900,   Love the design and it works exactly as described   ,1
+465,PROD_688,   10/10 would buy again. customer service was also helpful   ,4
+466,PROD_293,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,2
+467,PROD_242,<b>Worst purchase ever</b> do not buy this garbage</p>,2
+468,PROD_404,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",3
+469,PROD_108,<br>5 stars!! best purchase i made this year<br>,1
+470,PROD_652,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",2
+471,PROD_939,"Product is okay, nothing special but does the job",2
+472,PROD_417,"Complete scam, returned it immediately. 0 stars  ",3
+473,PROD_183,<br>Amazing value for money. Really impressed with the build quality<br>,4
+474,PROD_509,Do not buy this!! total waste of time and money</p>,3
+475,PROD_973,"  
+  Packaging was great and product works flawlessly  
+  ",3
+476,PROD_186,"Disappointed with the product, not as described at all  ",4
+477,PROD_342,"   Outstanding quality, arrived on time and works perfectly   ",2
+478,PROD_455," &nbsp; Totally worth the price, very satisfied customer here &nbsp; ",5
+479,PROD_408,<br>Love the design and it works exactly as described<br>,3
+480,PROD_822, &nbsp; 10/10 would buy again. customer service was also helpful &nbsp; ,5
+481,PROD_972,"Product is okay, nothing special but does the job",3
+482,PROD_854,<b>Worst purchase ever</b> do not buy this garbage</p>,3
+483,PROD_306, &nbsp; <p>Excellent product</p> highly recommended to everyone &nbsp; ,1
+484,PROD_916,"Decent product, shipping was slow though",5
+485,PROD_123,"Poor quality, feels very cheap. Not worth it at all<p>",4
+486,PROD_463,Arrived broken and customer support was useless 😤  ,4
+487,PROD_788,"Complete scam, returned it immediately. 0 stars</p>",3
+488,PROD_349,"Horrible experience, packaging was damaged and product broken  ",5
+489,PROD_677,"  
+  Best product in this price range hands down 👍👍  
+  ",2
+490,PROD_854,"Very bad quality, plastic feels cheap will break easily&amp;",3
+491,PROD_367,"   Really good product, will definitely recommend to friends   ",3
+492,PROD_120,"Stopped working after 3 days, very poor build quality  ",1
+493,PROD_199,"  
+  Totally worth the price, very satisfied customer here  
+  ",2
+494,PROD_101, &nbsp; Love the design and it works exactly as described &nbsp; ,5
+495,PROD_652,"Not bad not great, somewhere in the middle i think",4
+496,PROD_603, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,1
+497,PROD_937,<b>Worst purchase ever</b> do not buy this garbage&amp;,1
+498,PROD_127,   <p>Excellent product</p> highly recommended to everyone   ,2
+499,PROD_360,"Neither good nor bad, just an okay product overall",1
+500,PROD_775,"Poor quality, feels very cheap. Not worth it at all  ",5
+501,PROD_494,<br>Super fast delivery and product quality is top notch!!<br>,2
+502,PROD_691," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",2
+503,PROD_961,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",1
+504,PROD_875,"  
+  Best product in this price range hands down 👍👍  
+  ",3
+505,PROD_412,"Not bad not great, somewhere in the middle i think",4
+506,PROD_786,"<br>Really good product, will definitely recommend to friends<br>",5
+507,PROD_596,"Stopped working after 3 days, very poor build quality<p>",4
+508,PROD_818,"<br>Totally worth the price, very satisfied customer here<br>",4
+509,PROD_981,Terrible!! arrived late and was completely broken  ,2
+510,PROD_119,   10/10 would buy again. customer service was also helpful   ,2
+511,PROD_134,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,5
+512,PROD_936,"Average quality for the price, expected a bit more",1
+513,PROD_111,"Very disappointed, product looks nothing like the pictures</p>",2
+514,PROD_315, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,3
+515,PROD_316," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",2
+516,PROD_138,It works but nothing to write home about really,3
+517,PROD_393,"  
+  I love this so much, exceeded my expectations completely  
+  ",4
+518,PROD_912, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,4
+519,PROD_991,Do not buy this!! total waste of time and money</p>,2
+520,PROD_875,<br>Packaging was great and product works flawlessly<br>,5
+521,PROD_594,"   Really good product, will definitely recommend to friends   ",2
+522,PROD_317,"Stopped working after 3 days, very poor build quality&amp;",3
+523,PROD_244,"Worst product i have ever bought, avoid at all costs</p>",2
+524,PROD_843,"Decent product, shipping was slow though",1
+525,PROD_444,"  
+  10/10 would buy again. customer service was also helpful  
+  ",4
+526,PROD_386,Terrible product!! broke after 2 days of use 😡&amp;,5
+527,PROD_701,<b>Worst purchase ever</b> do not buy this garbage<p>,4
+528,PROD_674,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",1
+529,PROD_188,"Neither good nor bad, just an okay product overall",5
+530,PROD_258,"Poor quality, feels very cheap. Not worth it at all<p>",1
+531,PROD_480, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,4
+532,PROD_581,"Complete scam, returned it immediately. 0 stars</p>",2
+533,PROD_378,"Its fine i guess, works as expected nothing more",3
+534,PROD_740,"Decent product, shipping was slow though",1
+535,PROD_175,   Packaging was great and product works flawlessly   ,2
+536,PROD_927,"   Really good product, will definitely recommend to friends   ",5
+537,PROD_835,"   Outstanding quality, arrived on time and works perfectly   ",1
+538,PROD_366," &nbsp; Totally worth the price, very satisfied customer here &nbsp; ",3
+539,PROD_941, &nbsp; Love the design and it works exactly as described &nbsp; ,2
+540,PROD_184,<br>10/10 would buy again. customer service was also helpful<br>,2
+541,PROD_549,"Product is okay, nothing special but does the job",4
+542,PROD_764," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",4
+543,PROD_392,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",4
+544,PROD_442,<br>5 stars!! best purchase i made this year<br>,2
+545,PROD_120,"Poor quality, feels very cheap. Not worth it at all&amp;",3
+546,PROD_216,<br>Super fast delivery and product quality is top notch!!<br>,4
+547,PROD_903,"Okay product, will see how long it lasts",3
+548,PROD_888,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",5
+549,PROD_433, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,5
+550,PROD_663,"Very bad quality, plastic feels cheap will break easily<p>",3
+551,PROD_255,"Product is okay, nothing special but does the job",3
+552,PROD_519,"Stopped working after 3 days, very poor build quality</p>",2
+553,PROD_743,"   Totally worth the price, very satisfied customer here   ",2
+554,PROD_362,<br>Love the design and it works exactly as described<br>,4
+555,PROD_258,   10/10 would buy again. customer service was also helpful   ,1
+556,PROD_135,Terrible product!! broke after 2 days of use 😡</p>,4
+557,PROD_921,"<br>Great quality, fast shipping. Will buy again!!<br>",1
+558,PROD_461,   <p>Excellent product</p> highly recommended to everyone   ,3
+559,PROD_217, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,5
+560,PROD_125,Meets basic requirements but quality could be better,1
+561,PROD_477,Arrived broken and customer support was useless 😤  ,1
+562,PROD_683,"Average quality for the price, expected a bit more",1
+563,PROD_679,   Amazing value for money. Really impressed with the build quality   ,2
+564,PROD_159,Do not buy this!! total waste of time and money  ,2
+565,PROD_775,"Not bad not great, somewhere in the middle i think",2
+566,PROD_680," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",1
+567,PROD_772,"Stopped working after 3 days, very poor build quality</p>",5
+568,PROD_904,"  
+  Totally worth the price, very satisfied customer here  
+  ",3
+569,PROD_622,Terrible!! arrived late and was completely broken  ,2
+570,PROD_608,   10/10 would buy again. customer service was also helpful   ,1
+571,PROD_419, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,3
+572,PROD_934,<b>Worst purchase ever</b> do not buy this garbage</p>,2
+573,PROD_852,<br><p>Excellent product</p> highly recommended to everyone<br>,3
+574,PROD_799,"Decent product, shipping was slow though",3
+575,PROD_653,"Poor quality, feels very cheap. Not worth it at all</p>",5
+576,PROD_840,"  
+  Super fast delivery and product quality is top notch!!  
+  ",1
+577,PROD_747,"Complete scam, returned it immediately. 0 stars<p>",1
+578,PROD_807,   Amazing value for money. Really impressed with the build quality   ,5
+579,PROD_616,Do not buy this!! total waste of time and money</p>,4
+580,PROD_875,   Packaging was great and product works flawlessly   ,2
+581,PROD_480,"Disappointed with the product, not as described at all  ",2
+582,PROD_229," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",4
+583,PROD_902,"Worst product i have ever bought, avoid at all costs<p>",2
+584,PROD_363,"  
+  Love the design and it works exactly as described  
+  ",4
+585,PROD_944,   10/10 would buy again. customer service was also helpful   ,5
+586,PROD_410,Terrible product!! broke after 2 days of use 😡<p>,2
+587,PROD_154,"   Great quality, fast shipping. Will buy again!!   ",4
+588,PROD_747,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",4
+589,PROD_336, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,4
+590,PROD_729,Meets basic requirements but quality could be better,5
+591,PROD_463,Arrived broken and customer support was useless 😤  ,1
+592,PROD_248,"Average quality for the price, expected a bit more",4
+593,PROD_555,"Horrible experience, packaging was damaged and product broken</p>",1
+594,PROD_649,Do not buy this!! total waste of time and money  ,4
+595,PROD_903,"Very bad quality, plastic feels cheap will break easily</p>",1
+596,PROD_677,"   Really good product, will definitely recommend to friends   ",1
+597,PROD_860,"<br>Outstanding quality, arrived on time and works perfectly<br>",1
+598,PROD_279,"Worst product i have ever bought, avoid at all costs&amp;",2
+599,PROD_361,Terrible!! arrived late and was completely broken&amp;,3
+600,PROD_441,"Not recommended at all, save your money for something better&amp;",4
+601,PROD_589,"Product is okay, nothing special but does the job",4
+602,PROD_141,"Average quality for the price, expected a bit more",2
+603,PROD_315,"Very disappointed, product looks nothing like the pictures</p>",2
+604,PROD_233,"Decent product, shipping was slow though",3
+605,PROD_625,"Poor quality, feels very cheap. Not worth it at all  ",1
+606,PROD_677,<br>Super fast delivery and product quality is top notch!!<br>,3
+607,PROD_305,"Complete scam, returned it immediately. 0 stars</p>",4
+608,PROD_636,"Horrible experience, packaging was damaged and product broken</p>",2
+609,PROD_388, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,4
+610,PROD_209,"Very bad quality, plastic feels cheap will break easily<p>",5
+611,PROD_124,"<br>Really good product, will definitely recommend to friends<br>",5
+612,PROD_636,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",4
+613,PROD_899,"  
+  Totally worth the price, very satisfied customer here  
+  ",4
+614,PROD_631, &nbsp; Love the design and it works exactly as described &nbsp; ,2
+615,PROD_489,<br>10/10 would buy again. customer service was also helpful<br>,5
+616,PROD_159, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,3
+617,PROD_566,"   Great quality, fast shipping. Will buy again!!   ",2
+618,PROD_481, &nbsp; <p>Excellent product</p> highly recommended to everyone &nbsp; ,3
+619,PROD_155,Waste of money!! stopped working after one week&amp;,1
+620,PROD_198,"   Works perfectly fine, very happy with this purchase &amp;   ",5
+621,PROD_593, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,3
+622,PROD_863,"  
+  I love this so much, exceeded my expectations completely  
+  ",1
+623,PROD_651,"Horrible experience, packaging was damaged and product broken&amp;",1
+624,PROD_919,"  
+  Best product in this price range hands down 👍👍  
+  ",5
+625,PROD_521,"Very bad quality, plastic feels cheap will break easily  ",2
+626,PROD_802,"  
+  Really good product, will definitely recommend to friends  
+  ",5
+627,PROD_191,"<br>Outstanding quality, arrived on time and works perfectly<br>",5
+628,PROD_609,"   Totally worth the price, very satisfied customer here   ",2
+629,PROD_345,   Love the design and it works exactly as described   ,5
+630,PROD_987,"Not recommended at all, save your money for something better</p>",5
+631,PROD_341,   This product is absolutely amazing! Loved every bit of it 😍   ,5
+632,PROD_437,"Average quality for the price, expected a bit more",5
+633,PROD_263,"Its fine i guess, works as expected nothing more",1
+634,PROD_494,"  
+  5 stars!! best purchase i made this year  
+  ",5
+635,PROD_282,"Not bad not great, somewhere in the middle i think",5
+636,PROD_645,"  
+  Super fast delivery and product quality is top notch!!  
+  ",4
+637,PROD_843," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",3
+638,PROD_521,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",2
+639,PROD_724,Do not buy this!! total waste of time and money<p>,1
+640,PROD_492,"  
+  Packaging was great and product works flawlessly  
+  ",1
+641,PROD_659,"Disappointed with the product, not as described at all  ",5
+642,PROD_925," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",4
+643,PROD_814,"Worst product i have ever bought, avoid at all costs  ",2
+644,PROD_299, &nbsp; Love the design and it works exactly as described &nbsp; ,1
+645,PROD_954,"Not recommended at all, save your money for something better  ",5
+646,PROD_548,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",5
+647,PROD_604,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",3
+648,PROD_507,"Very disappointed, product looks nothing like the pictures&amp;",3
+649,PROD_247,   5 stars!! best purchase i made this year   ,5
+650,PROD_465,"<br>Works perfectly fine, very happy with this purchase &amp;<br>",4
+651,PROD_310,<br>Super fast delivery and product quality is top notch!!<br>,3
+652,PROD_541,"<br>I love this so much, exceeded my expectations completely<br>",5
+653,PROD_451,"Horrible experience, packaging was damaged and product broken</p>",2
+654,PROD_467,"  
+  Best product in this price range hands down 👍👍  
+  ",4
+655,PROD_747,"Not bad not great, somewhere in the middle i think",1
+656,PROD_562,It works but nothing to write home about really,2
+657,PROD_481,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",4
+658,PROD_316,"Worst product i have ever bought, avoid at all costs<p>",2
+659,PROD_469,<br>Love the design and it works exactly as described<br>,2
+660,PROD_958,"Not recommended at all, save your money for something better  ",2
+661,PROD_259,Terrible product!! broke after 2 days of use 😡<p>,4
+662,PROD_882," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",1
+663,PROD_282,"Its fine i guess, works as expected nothing more",1
+664,PROD_945,<br>5 stars!! best purchase i made this year<br>,4
+665,PROD_889," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",4
+666,PROD_271,   Super fast delivery and product quality is top notch!!   ,3
+667,PROD_987,"Okay product, will see how long it lasts",5
+668,PROD_321,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",1
+669,PROD_629,<br>Best product in this price range hands down 👍👍<br>,5
+670,PROD_737,"Very bad quality, plastic feels cheap will break easily<p>",4
+671,PROD_697,"  
+  Really good product, will definitely recommend to friends  
+  ",3
+672,PROD_896,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",5
+673,PROD_312,"   Totally worth the price, very satisfied customer here   ",4
+674,PROD_706,"Decent product, shipping was slow though",3
+675,PROD_560,"  
+  10/10 would buy again. customer service was also helpful  
+  ",3
+676,PROD_795,Terrible product!! broke after 2 days of use 😡<p>,3
+677,PROD_122,"<br>Great quality, fast shipping. Will buy again!!<br>",5
+678,PROD_466,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",1
+679,PROD_235,Waste of money!! stopped working after one week&amp;,2
+680,PROD_228,"Poor quality, feels very cheap. Not worth it at all  ",4
+681,PROD_203,Arrived broken and customer support was useless 😤<p>,3
+682,PROD_965," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",3
+683,PROD_995,   Amazing value for money. Really impressed with the build quality   ,3
+684,PROD_211,   Best product in this price range hands down 👍👍   ,5
+685,PROD_697,"Very bad quality, plastic feels cheap will break easily  ",2
+686,PROD_111,"Disappointed with the product, not as described at all</p>",1
+687,PROD_517,"   Outstanding quality, arrived on time and works perfectly   ",5
+688,PROD_854,"<br>Totally worth the price, very satisfied customer here<br>",3
+689,PROD_231,"Neither good nor bad, just an okay product overall",5
+690,PROD_635,"Not recommended at all, save your money for something better</p>",3
+691,PROD_568, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,5
+692,PROD_871," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",4
+693,PROD_372,"Very disappointed, product looks nothing like the pictures  ",4
+694,PROD_827,Waste of money!! stopped working after one week&amp;,5
+695,PROD_599,"Poor quality, feels very cheap. Not worth it at all&amp;",4
+696,PROD_261,"  
+  Super fast delivery and product quality is top notch!!  
+  ",2
+697,PROD_159,"Complete scam, returned it immediately. 0 stars  ",3
+698,PROD_310, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,5
+699,PROD_216,Do not buy this!! total waste of time and money</p>,4
+700,PROD_784,"Very bad quality, plastic feels cheap will break easily  ",4
+701,PROD_282,"   Really good product, will definitely recommend to friends   ",1
+702,PROD_212,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",3
+703,PROD_402,"Its fine i guess, works as expected nothing more",3
+704,PROD_912,Terrible!! arrived late and was completely broken</p>,1
+705,PROD_759,"  
+  10/10 would buy again. customer service was also helpful  
+  ",3
+706,PROD_177,Terrible product!! broke after 2 days of use 😡&amp;,4
+707,PROD_701,"   Great quality, fast shipping. Will buy again!!   ",5
+708,PROD_237,   <p>Excellent product</p> highly recommended to everyone   ,2
+709,PROD_724,<br>5 stars!! best purchase i made this year<br>,5
+710,PROD_976,"Poor quality, feels very cheap. Not worth it at all&amp;",3
+711,PROD_525,"Product is okay, nothing special but does the job",3
+712,PROD_680,"<br>I love this so much, exceeded my expectations completely<br>",5
+713,PROD_148,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",5
+714,PROD_455,   Best product in this price range hands down 👍👍   ,2
+715,PROD_394,<br>Packaging was great and product works flawlessly<br>,2
+716,PROD_891,It works but nothing to write home about really,1
+717,PROD_281,"   Outstanding quality, arrived on time and works perfectly   ",4
+718,PROD_642,"   Totally worth the price, very satisfied customer here   ",4
+719,PROD_824,Terrible!! arrived late and was completely broken  ,4
+720,PROD_319, &nbsp; 10/10 would buy again. customer service was also helpful &nbsp; ,3
+721,PROD_731, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,2
+722,PROD_717," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",1
+723,PROD_940,"Very disappointed, product looks nothing like the pictures  ",5
+724,PROD_718,"Decent product, shipping was slow though",4
+725,PROD_540,"Poor quality, feels very cheap. Not worth it at all&amp;",5
+726,PROD_618,Arrived broken and customer support was useless 😤<p>,2
+727,PROD_247,"Complete scam, returned it immediately. 0 stars&amp;",5
+728,PROD_987,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",1
+729,PROD_181,   Best product in this price range hands down 👍👍   ,5
+730,PROD_404,"Very bad quality, plastic feels cheap will break easily</p>",3
+731,PROD_483,"   Really good product, will definitely recommend to friends   ",4
+732,PROD_260,"   Outstanding quality, arrived on time and works perfectly   ",2
+733,PROD_589,"Worst product i have ever bought, avoid at all costs&amp;",1
+734,PROD_388,"Decent product, shipping was slow though",1
+735,PROD_672,"Not bad not great, somewhere in the middle i think",2
+736,PROD_780,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+737,PROD_593,<b>Worst purchase ever</b> do not buy this garbage</p>,2
+738,PROD_616,   <p>Excellent product</p> highly recommended to everyone   ,2
+739,PROD_165,Waste of money!! stopped working after one week<p>,2
+740,PROD_534,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",5
+741,PROD_443,Arrived broken and customer support was useless 😤  ,4
+742,PROD_803,"<br>I love this so much, exceeded my expectations completely<br>",3
+743,PROD_131,"Horrible experience, packaging was damaged and product broken  ",5
+744,PROD_167,<br>Best product in this price range hands down 👍👍<br>,4
+745,PROD_843,"Very bad quality, plastic feels cheap will break easily  ",5
+746,PROD_703,"Disappointed with the product, not as described at all  ",3
+747,PROD_779,"Okay product, will see how long it lasts",2
+748,PROD_546,"Worst product i have ever bought, avoid at all costs<p>",2
+749,PROD_998, &nbsp; Love the design and it works exactly as described &nbsp; ,4
+750,PROD_326,"Not recommended at all, save your money for something better  ",4
+751,PROD_277,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,3
+752,PROD_878,<b>Worst purchase ever</b> do not buy this garbage&amp;,4
+753,PROD_607,"Very disappointed, product looks nothing like the pictures  ",4
+754,PROD_696,Waste of money!! stopped working after one week<p>,1
+755,PROD_337,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",2
+756,PROD_553,"  
+  Super fast delivery and product quality is top notch!!  
+  ",4
+757,PROD_486,"  
+  I love this so much, exceeded my expectations completely  
+  ",5
+758,PROD_725,"Pretty average, does what it says in the description",3
+759,PROD_319,"Neither good nor bad, just an okay product overall",1
+760,PROD_712,"  
+  Packaging was great and product works flawlessly  
+  ",4
+761,PROD_712,"Product is okay, nothing special but does the job",4
+762,PROD_857,"Stopped working after 3 days, very poor build quality</p>",3
+763,PROD_623,"Its fine i guess, works as expected nothing more",3
+764,PROD_228,Terrible!! arrived late and was completely broken  ,5
+765,PROD_632,"Not bad not great, somewhere in the middle i think",5
+766,PROD_201,"  
+  This product is absolutely amazing! Loved every bit of it 😍  
+  ",2
+767,PROD_739,"<br>Great quality, fast shipping. Will buy again!!<br>",3
+768,PROD_452,"Very disappointed, product looks nothing like the pictures&amp;",4
+769,PROD_765,Waste of money!! stopped working after one week</p>,5
+770,PROD_575,Meets basic requirements but quality could be better,5
+771,PROD_533, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,3
+772,PROD_494,"Complete scam, returned it immediately. 0 stars<p>",2
+773,PROD_975,"Its fine i guess, works as expected nothing more",1
+774,PROD_230, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,4
+775,PROD_376, &nbsp; Packaging was great and product works flawlessly &nbsp; ,4
+776,PROD_289,It works but nothing to write home about really,1
+777,PROD_645,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",1
+778,PROD_413,"Worst product i have ever bought, avoid at all costs</p>",3
+779,PROD_995,Terrible!! arrived late and was completely broken  ,1
+780,PROD_750,Meets basic requirements but quality could be better,3
+781,PROD_992,Terrible product!! broke after 2 days of use 😡  ,2
+782,PROD_347,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",4
+783,PROD_300,"Very disappointed, product looks nothing like the pictures</p>",4
+784,PROD_858,"  
+  5 stars!! best purchase i made this year  
+  ",3
+785,PROD_914,"Poor quality, feels very cheap. Not worth it at all<p>",5
+786,PROD_401,   Super fast delivery and product quality is top notch!!   ,4
+787,PROD_559,"Okay product, will see how long it lasts",1
+788,PROD_863,"Horrible experience, packaging was damaged and product broken&amp;",5
+789,PROD_214,"Neither good nor bad, just an okay product overall",1
+790,PROD_318,Meets basic requirements but quality could be better,3
+791,PROD_657,"  
+  Really good product, will definitely recommend to friends  
+  ",4
+792,PROD_646," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",3
+793,PROD_945,"Its fine i guess, works as expected nothing more",3
+794,PROD_523,   Love the design and it works exactly as described   ,2
+795,PROD_761,"Not bad not great, somewhere in the middle i think",1
+796,PROD_998,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,2
+797,PROD_272,<b>Worst purchase ever</b> do not buy this garbage  ,1
+798,PROD_732,<br><p>Excellent product</p> highly recommended to everyone<br>,4
+799,PROD_497,Waste of money!! stopped working after one week  ,5
+800,PROD_564,"Poor quality, feels very cheap. Not worth it at all  ",1
+801,PROD_919,"  
+  Super fast delivery and product quality is top notch!!  
+  ",1
+802,PROD_920,"Average quality for the price, expected a bit more",3
+803,PROD_321, &nbsp; Amazing value for money. Really impressed with the build quality &nbsp; ,1
+804,PROD_875,"  
+  Best product in this price range hands down 👍👍  
+  ",2
+805,PROD_697,"Very bad quality, plastic feels cheap will break easily</p>",1
+806,PROD_354,It works but nothing to write home about really,5
+807,PROD_531,"Okay product, will see how long it lasts",4
+808,PROD_593,"Worst product i have ever bought, avoid at all costs  ",2
+809,PROD_424,Terrible!! arrived late and was completely broken<p>,4
+810,PROD_300,"  
+  10/10 would buy again. customer service was also helpful  
+  ",5
+811,PROD_581,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+812,PROD_530,"<br>Great quality, fast shipping. Will buy again!!<br>",4
+813,PROD_273,"Its fine i guess, works as expected nothing more",1
+814,PROD_704,"  
+  5 stars!! best purchase i made this year  
+  ",5
+815,PROD_604,"Poor quality, feels very cheap. Not worth it at all  ",5
+816,PROD_554,Arrived broken and customer support was useless 😤&amp;,4
+817,PROD_175," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",5
+818,PROD_591,"Pretty average, does what it says in the description",2
+819,PROD_460,<br>Best product in this price range hands down 👍👍<br>,1
+820,PROD_361, &nbsp; Packaging was great and product works flawlessly &nbsp; ,1
+821,PROD_879,"   Really good product, will definitely recommend to friends   ",2
+822,PROD_566,"Average quality for the price, expected a bit more",4
+823,PROD_192,"   Totally worth the price, very satisfied customer here   ",5
+824,PROD_241,"  
+  Love the design and it works exactly as described  
+  ",3
+825,PROD_923,"  
+  10/10 would buy again. customer service was also helpful  
+  ",1
+826,PROD_148,Terrible product!! broke after 2 days of use 😡</p>,1
+827,PROD_503,"<br>Great quality, fast shipping. Will buy again!!<br>",4
+828,PROD_440,<br><p>Excellent product</p> highly recommended to everyone<br>,5
+829,PROD_717,Waste of money!! stopped working after one week</p>,3
+830,PROD_876,"   Works perfectly fine, very happy with this purchase &amp;   ",5
+831,PROD_955,   Super fast delivery and product quality is top notch!!   ,5
+832,PROD_282,"<br>I love this so much, exceeded my expectations completely<br>",1
+833,PROD_878,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",3
+834,PROD_657,<br>Best product in this price range hands down 👍👍<br>,5
+835,PROD_118,"  
+  Packaging was great and product works flawlessly  
+  ",4
+836,PROD_208,It works but nothing to write home about really,4
+837,PROD_400,"Stopped working after 3 days, very poor build quality<p>",2
+838,PROD_349,"Pretty average, does what it says in the description",5
+839,PROD_273,<br>Love the design and it works exactly as described<br>,5
+840,PROD_788,Meets basic requirements but quality could be better,4
+841,PROD_423,Terrible product!! broke after 2 days of use 😡</p>,1
+842,PROD_584," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",3
+843,PROD_183,"Very disappointed, product looks nothing like the pictures  ",1
+844,PROD_854, &nbsp; 5 stars!! best purchase i made this year &nbsp; ,1
+845,PROD_896,"Not bad not great, somewhere in the middle i think",1
+846,PROD_942,Arrived broken and customer support was useless 😤&amp;,5
+847,PROD_662," &nbsp; I love this so much, exceeded my expectations completely &nbsp; ",1
+848,PROD_870,"Horrible experience, packaging was damaged and product broken  ",4
+849,PROD_613,Do not buy this!! total waste of time and money<p>,5
+850,PROD_449,"  
+  Packaging was great and product works flawlessly  
+  ",2
+851,PROD_367," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",3
+852,PROD_912,"<br>Outstanding quality, arrived on time and works perfectly<br>",2
+853,PROD_673,"Its fine i guess, works as expected nothing more",1
+854,PROD_378,   Love the design and it works exactly as described   ,1
+855,PROD_537,   10/10 would buy again. customer service was also helpful   ,3
+856,PROD_528,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+857,PROD_129," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",4
+858,PROD_550,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",3
+859,PROD_946,"Neither good nor bad, just an okay product overall",1
+860,PROD_174,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",2
+861,PROD_711, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,4
+862,PROD_389,"Complete scam, returned it immediately. 0 stars&amp;",4
+863,PROD_520,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",1
+864,PROD_886,"  
+  Best product in this price range hands down 👍👍  
+  ",5
+865,PROD_518,"Very bad quality, plastic feels cheap will break easily</p>",3
+866,PROD_225,"<br>Really good product, will definitely recommend to friends<br>",3
+867,PROD_675," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",5
+868,PROD_727,"Worst product i have ever bought, avoid at all costs  ",4
+869,PROD_487,Terrible!! arrived late and was completely broken&amp;,1
+870,PROD_475,   10/10 would buy again. customer service was also helpful   ,3
+871,PROD_871,Terrible product!! broke after 2 days of use 😡<p>,2
+872,PROD_462," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",3
+873,PROD_361, &nbsp; <p>Excellent product</p> highly recommended to everyone &nbsp; ,3
+874,PROD_641,   5 stars!! best purchase i made this year   ,2
+875,PROD_224,"Not bad not great, somewhere in the middle i think",5
+876,PROD_968,It works but nothing to write home about really,3
+877,PROD_807,"Okay product, will see how long it lasts",2
+878,PROD_468,"Pretty average, does what it says in the description",5
+879,PROD_737,<br>Best product in this price range hands down 👍👍<br>,4
+880,PROD_377,"  
+  Packaging was great and product works flawlessly  
+  ",4
+881,PROD_588,"Product is okay, nothing special but does the job",1
+882,PROD_953,"Stopped working after 3 days, very poor build quality<p>",5
+883,PROD_998,"Its fine i guess, works as expected nothing more",2
+884,PROD_208,"Decent product, shipping was slow though",3
+885,PROD_482,   10/10 would buy again. customer service was also helpful   ,4
+886,PROD_458,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,4
+887,PROD_379,"  
+  Great quality, fast shipping. Will buy again!!  
+  ",5
+888,PROD_965,<br><p>Excellent product</p> highly recommended to everyone<br>,3
+889,PROD_372,   5 stars!! best purchase i made this year   ,3
+890,PROD_203,Meets basic requirements but quality could be better,1
+891,PROD_264,Arrived broken and customer support was useless 😤&amp;,5
+892,PROD_756,"   I love this so much, exceeded my expectations completely   ",5
+893,PROD_163,"Horrible experience, packaging was damaged and product broken&amp;",3
+894,PROD_366,"Decent product, shipping was slow though",5
+895,PROD_760, &nbsp; Packaging was great and product works flawlessly &nbsp; ,3
+896,PROD_283,"Disappointed with the product, not as described at all<p>",4
+897,PROD_623," &nbsp; Outstanding quality, arrived on time and works perfectly &nbsp; ",1
+898,PROD_765,"Pretty average, does what it says in the description",4
+899,PROD_681,"  
+  Love the design and it works exactly as described  
+  ",2
+900,PROD_516,<br>10/10 would buy again. customer service was also helpful<br>,3
+901,PROD_598,Terrible product!! broke after 2 days of use 😡<p>,2
+902,PROD_830,<b>Worst purchase ever</b> do not buy this garbage<p>,2
+903,PROD_850,<br><p>Excellent product</p> highly recommended to everyone<br>,4
+904,PROD_262,"Decent product, shipping was slow though",1
+905,PROD_948,"   Works perfectly fine, very happy with this purchase &amp;   ",1
+906,PROD_963,It works but nothing to write home about really,3
+907,PROD_542,"<br>I love this so much, exceeded my expectations completely<br>",5
+908,PROD_800,"Horrible experience, packaging was damaged and product broken</p>",2
+909,PROD_825,   Best product in this price range hands down 👍👍   ,3
+910,PROD_909,Meets basic requirements but quality could be better,5
+911,PROD_780," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",3
+912,PROD_833,"   Outstanding quality, arrived on time and works perfectly   ",3
+913,PROD_363,"Its fine i guess, works as expected nothing more",2
+914,PROD_426,"Decent product, shipping was slow though",3
+915,PROD_648,"Not recommended at all, save your money for something better<p>",1
+916,PROD_843,   This product is absolutely amazing! Loved every bit of it 😍   ,5
+917,PROD_300,"Okay product, will see how long it lasts",1
+918,PROD_293,"Pretty average, does what it says in the description",1
+919,PROD_483,Waste of money!! stopped working after one week</p>,4
+920,PROD_174," &nbsp; Works perfectly fine, very happy with this purchase &amp; &nbsp; ",3
+921,PROD_287,Arrived broken and customer support was useless 😤</p>,5
+922,PROD_389,"Average quality for the price, expected a bit more",5
+923,PROD_222,"Its fine i guess, works as expected nothing more",2
+924,PROD_261,<br>Best product in this price range hands down 👍👍<br>,2
+925,PROD_287, &nbsp; Packaging was great and product works flawlessly &nbsp; ,2
+926,PROD_283,"   Really good product, will definitely recommend to friends   ",4
+927,PROD_550,"Okay product, will see how long it lasts",3
+928,PROD_664,"<br>Totally worth the price, very satisfied customer here<br>",1
+929,PROD_536,Terrible!! arrived late and was completely broken</p>,5
+930,PROD_886,"Not recommended at all, save your money for something better<p>",1
+931,PROD_436,Terrible product!! broke after 2 days of use 😡&amp;,2
+932,PROD_665,<b>Worst purchase ever</b> do not buy this garbage  ,4
+933,PROD_113,"Very disappointed, product looks nothing like the pictures</p>",2
+934,PROD_152,Waste of money!! stopped working after one week  ,4
+935,PROD_875,"<br>Works perfectly fine, very happy with this purchase &amp;<br>",2
+936,PROD_389,<br>Super fast delivery and product quality is top notch!!<br>,2
+937,PROD_738,"Okay product, will see how long it lasts",3
+938,PROD_690,   Amazing value for money. Really impressed with the build quality   ,1
+939,PROD_960, &nbsp; Best product in this price range hands down 👍👍 &nbsp; ,2
+940,PROD_393,"Very bad quality, plastic feels cheap will break easily</p>",1
+941,PROD_875," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",1
+942,PROD_988,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",5
+943,PROD_732,"Its fine i guess, works as expected nothing more",1
+944,PROD_773,   Love the design and it works exactly as described   ,4
+945,PROD_918,"Not recommended at all, save your money for something better</p>",5
+946,PROD_723, &nbsp; This product is absolutely amazing! Loved every bit of it 😍 &nbsp; ,4
+947,PROD_797,<b>Worst purchase ever</b> do not buy this garbage<p>,2
+948,PROD_828,"Very disappointed, product looks nothing like the pictures  ",2
+949,PROD_334,   5 stars!! best purchase i made this year   ,5
+950,PROD_975,"  
+  Works perfectly fine, very happy with this purchase &amp;  
+  ",3
+951,PROD_530,"Product is okay, nothing special but does the job",1
+952,PROD_951,"   I love this so much, exceeded my expectations completely   ",3
+953,PROD_909,"Horrible experience, packaging was damaged and product broken<p>",1
+954,PROD_970,"  
+  Best product in this price range hands down 👍👍  
+  ",4
+955,PROD_454,"Not bad not great, somewhere in the middle i think",2
+956,PROD_335,"Disappointed with the product, not as described at all&amp;",1
+957,PROD_112,"   Outstanding quality, arrived on time and works perfectly   ",2
+958,PROD_130,"Worst product i have ever bought, avoid at all costs  ",2
+959,PROD_265,   Love the design and it works exactly as described   ,3
+960,PROD_199,"Not recommended at all, save your money for something better</p>",5
+961,PROD_261,Terrible product!! broke after 2 days of use 😡<p>,1
+962,PROD_903,"<br>Great quality, fast shipping. Will buy again!!<br>",2
+963,PROD_248,"Very disappointed, product looks nothing like the pictures</p>",4
+964,PROD_164,Waste of money!! stopped working after one week</p>,4
+965,PROD_326,"<br>Works perfectly fine, very happy with this purchase &amp;<br>",5
+966,PROD_153, &nbsp; Super fast delivery and product quality is top notch!! &nbsp; ,2
+967,PROD_152,"Complete scam, returned it immediately. 0 stars&amp;",2
+968,PROD_201,   Amazing value for money. Really impressed with the build quality   ,2
+969,PROD_497,"  
+  Best product in this price range hands down 👍👍  
+  ",2
+970,PROD_210,<br>Packaging was great and product works flawlessly<br>,1
+971,PROD_983,"Product is okay, nothing special but does the job",5
+972,PROD_477,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",4
+973,PROD_951,"   Totally worth the price, very satisfied customer here   ",4
+974,PROD_203,   Love the design and it works exactly as described   ,4
+975,PROD_894,"Not bad not great, somewhere in the middle i think",5
+976,PROD_833,<br>This product is absolutely amazing! Loved every bit of it 😍<br>,1
+977,PROD_490," &nbsp; Great quality, fast shipping. Will buy again!! &nbsp; ",5
+978,PROD_618,<br><p>Excellent product</p> highly recommended to everyone<br>,4
+979,PROD_627,Waste of money!! stopped working after one week  ,3
+980,PROD_746,"Poor quality, feels very cheap. Not worth it at all<p>",4
+981,PROD_556,"Product is okay, nothing special but does the job",3
+982,PROD_828,"Average quality for the price, expected a bit more",5
+983,PROD_715,"  
+  Amazing value for money. Really impressed with the build quality  
+  ",3
+984,PROD_709,Do not buy this!! total waste of time and money<p>,2
+985,PROD_223,<br>Packaging was great and product works flawlessly<br>,4
+986,PROD_203," &nbsp; Really good product, will definitely recommend to friends &nbsp; ",1
+987,PROD_707,"  
+  Outstanding quality, arrived on time and works perfectly  
+  ",4
+988,PROD_899,"Worst product i have ever bought, avoid at all costs&amp;",4
+989,PROD_670,Terrible!! arrived late and was completely broken<p>,2
+990,PROD_540, &nbsp; 10/10 would buy again. customer service was also helpful &nbsp; ,2
+991,PROD_606,"Product is okay, nothing special but does the job",5
+992,PROD_792,"   Great quality, fast shipping. Will buy again!!   ",4
+993,PROD_590,"  
+  <p>Excellent product</p> highly recommended to everyone  
+  ",1
+994,PROD_201,"  
+  5 stars!! best purchase i made this year  
+  ",4
+995,PROD_588,"Poor quality, feels very cheap. Not worth it at all&amp;",2
+996,PROD_104,Arrived broken and customer support was useless 😤</p>,4
+997,PROD_347,"Complete scam, returned it immediately. 0 stars&amp;",1
+998,PROD_837,"Pretty average, does what it says in the description",5
+999,PROD_657,"Neither good nor bad, just an okay product overall",5
+1000,PROD_697,"Very bad quality, plastic feels cheap will break easily</p>",2
