@@ -1,42 +1,51 @@
-# NLP Sentiment Analysis with Hugging Face
-ProSensia AI/ML Bootcamp | Week 3 Day 4
+# Loan Default Prediction API - FastAPI
+ProSensia AI/ML Bootcamp | Week 4 Day 1
 
-## what i did
-used a pre-trained distilbert model from hugging face to classify 1000 customer reviews as POSITIVE or NEGATIVE. cleaned raw messy text with regex first then ran inference.
+## what i built
+deployed the week 2 random forest model as a REST API using FastAPI.
+model is loaded into memory on startup and serves predictions via POST /predict.
 
 ## files
-- nlp_sentiment_wrapper.ipynb
-- customer_reviews_raw.csv
-- reviews_with_sentiment.csv
+- main.py
+- production_rf_model.pkl
 - requirements.txt
 - README.md
 
 ## how to run
 pip install -r requirements.txt
-jupyter notebook nlp_sentiment_wrapper.ipynb
+uvicorn main:app --reload
 
-## model used
-distilbert-base-uncased-finetuned-sst-2-english
-- pre-trained on SST-2 sentiment dataset
-- no fine-tuning done, used as-is
-- runs on cpu (device=-1)
+then open: http://127.0.0.1:8000/docs
 
-## text cleaning steps
-1. remove html tags with regex
-2. remove html entities like &amp;
-3. remove non-ascii characters (emojis etc)
-4. remove extra whitespace
-5. lowercase and strip
+## endpoints
+- GET  /              -> api running message
+- GET  /health-check  -> {"status": "API is live"}
+- POST /predict       -> takes loan features, returns prediction
 
-## results
-- total reviews: 1000
-- positive: 518
-- negative: 482
-- avg confidence: 0.8785
+## example POST /predict input
+{
+  "Age": 35,
+  "Annual_Income": 55000,
+  "Loan_Amount": 20000,
+  "Loan_Term_Months": 36,
+  "Credit_Score": 620,
+  "Employment_Years": 5,
+  "Num_Credit_Lines": 4,
+  "Debt_To_Income_Ratio": 0.35,
+  "Num_Late_Payments": 2,
+  "Has_Mortgage": 0,
+  "Education": 1,
+  "Loan_Purpose": 0,
+  "Marital_Status": 1,
+  "Loan_To_Income": 0.36,
+  "Risk_Score": 7.8
+}
 
-## why pretrained > from scratch
-training a sentiment model from scratch needs:
-- millions of labeled examples
-- days/weeks of gpu training
-- huge cost
-distilbert already has this knowledge, we just call pipeline() and done
+## what is pickling
+converting a python object (trained model) into a byte stream saved as .pkl file.
+joblib.dump() saves it, joblib.load() loads it back.
+security risk: never load .pkl files from unknown sources — they can execute arbitrary code on load.
+
+## why fastapi not flask
+fastapi is async, faster, auto-generates swagger docs, built-in data validation with pydantic.
+flask is older and slower for ML inference workloads.
