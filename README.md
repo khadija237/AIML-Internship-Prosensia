@@ -1,9 +1,8 @@
-# Loan Default Prediction API - FastAPI
-ProSensia AI/ML Bootcamp | Week 4 Day 1
+# Loan Default Prediction API - Day 17
+ProSensia AI/ML Bootcamp | Week 4 Day 2
 
-## what i built
-deployed the week 2 random forest model as a REST API using FastAPI.
-model is loaded into memory on startup and serves predictions via POST /predict.
+## what i updated
+added pydantic schema for input validation and full prediction logic in POST /predict.
 
 ## files
 - main.py
@@ -15,14 +14,13 @@ model is loaded into memory on startup and serves predictions via POST /predict.
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-then open: http://127.0.0.1:8000/docs
+open: http://127.0.0.1:8000/docs
 
 ## endpoints
-- GET  /              -> api running message
 - GET  /health-check  -> {"status": "API is live"}
-- POST /predict       -> takes loan features, returns prediction
+- POST /predict       -> returns {"loan_default_prediction": 0 or 1}
 
-## example POST /predict input
+## sample input for /predict
 {
   "Age": 35,
   "Annual_Income": 55000,
@@ -41,11 +39,6 @@ then open: http://127.0.0.1:8000/docs
   "Risk_Score": 7.8
 }
 
-## what is pickling
-converting a python object (trained model) into a byte stream saved as .pkl file.
-joblib.dump() saves it, joblib.load() loads it back.
-security risk: never load .pkl files from unknown sources — they can execute arbitrary code on load.
-
-## why fastapi not flask
-fastapi is async, faster, auto-generates swagger docs, built-in data validation with pydantic.
-flask is older and slower for ML inference workloads.
+## why pydantic validation
+if wrong data type is sent, pydantic returns 422 error automatically.
+model never receives bad data - prevents garbage in garbage out problem.
