@@ -9,7 +9,7 @@ model = joblib.load("loan_default_rf_model.pkl")
 print("model loaded!")
 
 
-# training data boundaries (from week 2 loan dataset)
+# training data boundaries
 BOUNDS = {
     "Age":                  (22, 65),
     "Annual_Income":        (20000, 150000),
@@ -24,6 +24,7 @@ BOUNDS = {
 }
 
 
+# input schema
 class LoanApplication(BaseModel):
     Age: int
     Annual_Income: float
@@ -44,16 +45,22 @@ class LoanApplication(BaseModel):
     Risk_Score: float
 
 
+# output schema
+class PredictionResponse(BaseModel):
+    prediction: int
+    confidence_score: float
+
+
 @app.get("/health-check")
 def health_check():
     return {"status": "API is live"}
 
 
-@app.post("/predict")
+@app.post("/predict", response_model=PredictionResponse)
 def predict(data: LoanApplication):
     input_dict = data.model_dump()
 
-    # OOD guardrails - check values against training bounds
+    # OOD guardrails
     for field, (min_val, max_val) in BOUNDS.items():
         value = input_dict[field]
         if value < min_val or value > max_val:
@@ -64,5 +71,10 @@ def predict(data: LoanApplication):
 
     input_df = pd.DataFrame([input_dict])
     prediction = model.predict(input_df)[0]
+    probability = model.predict_proba(input_df)[0]
+    confidence = round(float(probability[int(prediction)]), 4)
 
-    return {"loan_default_prediction": int(prediction)}
+    return PredictionResponse(
+        prediction=int(prediction),
+        confidence_score=confidence
+    )
