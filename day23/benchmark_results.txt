@@ -1,0 +1,18 @@
+BENCHMARK RESULTS - Loan Approval API
+Day 23 - Async FastAPI Performance Test
+========================================
+Total Requests : 100
+Min Latency    : 13.75 ms
+Max Latency    : 22.29 ms
+Avg Latency    : 15.58 ms
+P95 Latency    : 20.14 ms
+P99 Latency    : 21.67 ms
+
+Target: p95 < 500ms
+Result: PASSED (20.14ms << 500ms)
+
+Optimization techniques used:
+- async def endpoints
+- run_in_threadpool for CPU-bound prediction
+- Pydantic Field() validation (rejects bad data early)
+- vectorized numpy operations in model.predict()
