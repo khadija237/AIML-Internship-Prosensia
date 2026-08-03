@@ -1,0 +1,82 @@
+# ============================================================
+# Docker Compose - Multi Container Architecture
+#
+# Bind Mounts vs Named Volumes:
+# - Bind Mount: host folder directly linked to container
+#   host filesystem pe dependent, production mein risky
+# - Named Volume: Docker khud manage karta hai storage
+#   host path se independent, production standard hai
+#
+# Custom Bridge Network:
+# - default bridge mein sab containers ek doosre se baat kar sakte hain
+# - custom bridge mein sirf same network ke containers communicate karte hain
+# - network isolation = security
+#
+# cgroups (Control Groups):
+# - Linux kernel feature
+# - har container ki CPU aur Memory limit set hoti hai
+# - ek container poora server hang nahi kar sakta
+# ============================================================
+
+version: '3.8'
+
+services:
+
+  # FastAPI ML inference service
+  api:
+    build: .
+    container_name: loan-approval-api
+    ports:
+      - "8000:8000"
+    networks:
+      - backend-network
+    volumes:
+      - model-volume:/app/models
+      - logs-volume:/app/logs
+    environment:
+      - APP_ENV=production
+      - MODEL_PATH=/app/loan_approval_model.pkl
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health-check"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+    depends_on:
+      - redis
+
+  # Redis - caching service
+  redis:
+    image: redis:7-alpine
+    container_name: loan-redis
+    networks:
+      - backend-network
+    volumes:
+      - redis-volume:/data
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+    restart: unless-stopped
+
+# custom bridge network
+networks:
+  backend-network:
+    driver: bridge
+    name: loan-approval-network
+
+# named volumes for persistent storage
+volumes:
+  model-volume:
+    name: loan-model-storage
+  logs-volume:
+    name: loan-logs-storage
+  redis-volume:
+    name: loan-redis-storage
