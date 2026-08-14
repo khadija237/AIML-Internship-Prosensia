@@ -1,0 +1,110 @@
+{
+  "Age": {
+    "mean": 38.4633,
+    "std": 9.4888,
+    "q1": 32.0,
+    "q3": 45.0,
+    "iqr": 13.0,
+    "lower_bound": 21,
+    "upper_bound": 64.5
+  },
+  "Annual_Income": {
+    "mean": 71586.1114,
+    "std": 26910.3229,
+    "q1": 52048.2713,
+    "q3": 89882.6035,
+    "iqr": 37834.3322,
+    "lower_bound": 25000,
+    "upper_bound": 146634.1019
+  },
+  "Loan_Amount": {
+    "mean": 28486.5517,
+    "std": 14523.6619,
+    "q1": 17521.0512,
+    "q3": 38548.4228,
+    "iqr": 21027.3716,
+    "lower_bound": 5000,
+    "upper_bound": 70089.4802
+  },
+  "Loan_Term_Months": {
+    "mean": 35.796,
+    "std": 11.3215,
+    "q1": 28.0,
+    "q3": 44.0,
+    "iqr": 16.0,
+    "lower_bound": 12,
+    "upper_bound": 60
+  },
+  "Credit_Score": {
+    "mean": 662.4483,
+    "std": 88.5845,
+    "q1": 602.0,
+    "q3": 723.0,
+    "iqr": 121.0,
+    "lower_bound": 420.5,
+    "upper_bound": 850
+  },
+  "Employment_Years": {
+    "mean": 9.2913,
+    "std": 5.692,
+    "q1": 5.0,
+    "q3": 13.0,
+    "iqr": 8.0,
+    "lower_bound": 0,
+    "upper_bound": 25.0
+  },
+  "Num_Dependents": {
+    "mean": 1.8453,
+    "std": 1.2474,
+    "q1": 1.0,
+    "q3": 3.0,
+    "iqr": 2.0,
+    "lower_bound": 0,
+    "upper_bound": 6.0
+  },
+  "Existing_Debt": {
+    "mean": 14211.981,
+    "std": 9272.8214,
+    "q1": 6969.6795,
+    "q3": 20619.3207,
+    "iqr": 13649.6412,
+    "lower_bound": 0,
+    "upper_bound": 41093.7826
+  },
+  "Debt_To_Income": {
+    "mean": 0.283,
+    "std": 0.1434,
+    "q1": 0.1807,
+    "q3": 0.3781,
+    "iqr": 0.1974,
+    "lower_bound": 0.0,
+    "upper_bound": 0.6742
+  },
+  "Loan_To_Income": {
+    "mean": 0.5952,
+    "std": 0.5076,
+    "q1": 0.1155,
+    "q3": 0.9549,
+    "iqr": 0.8394,
+    "lower_bound": 0.0,
+    "upper_bound": 2.214
+  },
+  "Num_Prev_Loans": {
+    "mean": 2.2333,
+    "std": 1.5355,
+    "q1": 1.0,
+    "q3": 3.0,
+    "iqr": 2.0,
+    "lower_bound": 0,
+    "upper_bound": 6.0
+  },
+  "Num_Late_Payments": {
+    "mean": 1.282,
+    "std": 1.2561,
+    "q1": 0.0,
+    "q3": 2.0,
+    "iqr": 2.0,
+    "lower_bound": 0,
+    "upper_bound": 5.0
+  }
+}
