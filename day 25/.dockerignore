@@ -1,0 +1,45 @@
+# virtual environments
+.venv
+venv
+env
+.env
+
+# git
+.git
+.gitignore
+
+# python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# test files
+*test*
+*tests*
+security_tests.py
+benchmark*.py
+
+# jupyter notebooks
+*.ipynb
+
+# datasets
+*.csv
+*.xlsx
+
+# training scripts
+train_model.py
+train_model.ipynb
+
+# logs
+*.log
+logs/
+
+# IDE
+.vscode
+.idea
+
+# os files
+.DS_Store
+Thumbs.db
